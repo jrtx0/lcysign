@@ -1,4 +1,4 @@
-# LCYSign
+# lcysign
 良辰云自动签到以获取流量
 
 ### Usage
